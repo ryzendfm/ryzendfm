@@ -71,3 +71,10 @@ I’m a motion graphics artist who also codes — I can spend hours perfecting a
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
+
+<!-- TICTACTOE-START -->
+## 🎮 Play Tic-Tac-Toe!
+![Tic-Tac-Toe Game](./tictactoe.svg)
+
+**How to play:** Create an issue with title `ttt [position]` where position is 1-9
+<!-- TICTACTOE-END -->
